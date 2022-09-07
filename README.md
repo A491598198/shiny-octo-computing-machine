@@ -5,10 +5,12 @@
 Telegram: [@yggdrasil_re](https://t.me/yggdrasil_re)  
 Matrix: https://matrix.to/#yggru:matrix.org  
 XMPP: yggdrasil@conference.jabber.de  
+Jitsi: https://meet.jit.si/yggre
 
 ## Флудилка этого чата
 Telegram: https://t.me/+zlpMiVtmQkg5OTIy  
 Matrix https://matrix.to/#yggruofftop:matrix.org  
+Jitsi: https://meet.jit.si/yggreflood
 
 ## Правила чата:
 0) Орфографические и грамматические ошибки разрешены  
